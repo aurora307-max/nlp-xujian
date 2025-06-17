@@ -46,4 +46,4 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="https://github.com/aurora307-max/nlp-xujian/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250617164501.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://github.com/aurora307-max/nlp-xujian/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-18%20010555.png" width="800" alt="截图二>
+<img src="https://github.com/aurora307-max/nlp-xujian/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250617164501.png" width="800" alt="截图二">
