@@ -2,7 +2,7 @@
 
 <img src="https://github.com/aurora307-max/nlp-xujian/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250617164414.jpg" width="200" alt="饺子形象">
 
-大家好，我是**派大星**，我的身份是*比奇堡的海星*。以下是我的自我介绍：
+大家好，我是**饺子**，我的身份是*皮特一家的小儿子*。以下是我的自我介绍：
 
 ---
 
